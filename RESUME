@@ -1,0 +1,36 @@
+Sachin Soni
+Cloud / DevOps Support Engineer (Entry-Level)
+Location: India | Immediate Joiner | Open to Support / Night Shift
+GitHub: https://github.com/<username>
+
+SUMMARY
+Entry-level Cloud & DevOps Support Engineer with hands-on experience
+in deploying and automating applications on AWS using Linux, Docker,
+and CI/CD pipelines. Comfortable with troubleshooting, logs, and
+production support tasks.
+
+SKILLS
+• Linux (services, logs, troubleshooting)
+• AWS EC2, IAM, Security Groups
+• Docker (build, run, container lifecycle)
+• Git & GitHub Actions (CI/CD)
+• Basic Networking (HTTP, ports, SSH)
+
+PROJECTS
+
+CI/CD Automation with GitHub Actions
+• Built CI/CD pipeline triggered on push to main branch
+• Automated Docker image build and deployment to AWS EC2
+• Secured deployment using SSH keys and GitHub Secrets
+• Debugged pipeline failures using GitHub Actions and Docker logs
+GitHub: <CI/CD repo link>
+
+AWS EC2 Web Deployment
+• Deployed a web application on AWS EC2 using Ubuntu and Nginx
+• Configured security groups and non-root IAM access
+• Performed manual deployment before automating with CI/CD
+• Practiced cost awareness by stopping unused EC2 instances
+GitHub: <AWS repo link>
+
+EDUCATION
+MCA
